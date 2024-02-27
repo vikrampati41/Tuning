@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuning", "Tuning\Tuning.csproj", "{57D4AFD2-C3D1-480F-AEE7-3956D6E8C1DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForTanaji", "TestForTanaji\TestForTanaji.csproj", "{8AF03237-AA82-4E5D-B012-C4834404DA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D4AFD2-C3D1-480F-AEE7-3956D6E8C1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D4AFD2-C3D1-480F-AEE7-3956D6E8C1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D4AFD2-C3D1-480F-AEE7-3956D6E8C1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D4AFD2-C3D1-480F-AEE7-3956D6E8C1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF03237-AA82-4E5D-B012-C4834404DA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF03237-AA82-4E5D-B012-C4834404DA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF03237-AA82-4E5D-B012-C4834404DA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF03237-AA82-4E5D-B012-C4834404DA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEDDF68-9AD0-4586-8CF2-0BC92ABB7B47}
+	EndGlobalSection
+EndGlobal
